@@ -13,6 +13,7 @@ En utilisant l'application, vous signifiez votre accord sur notre politique de c
 This privacy statement concerns applications published on this page
 
 Android.permission.CAMERA: this permission is required to take a picture by the camera and use it only for on the game
+Android.permission.READ_PHONE_STATE: this permission is required to take a picture from gallery in your phone and use it only for on the game
 
 This app does not share or share any private information from your smartphone.
 
